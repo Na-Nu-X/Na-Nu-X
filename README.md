@@ -1,35 +1,57 @@
-## Hi there 👋
-# I'm Full-Stack Web Developer Looking For A Job Opportunity.
+# 👋 Hi there, I'm Patrik #
+## 🚀 Full-Stack Web Developer actively looking for a job opportunity  
+I’m a passionate developer who loves turning ideas into real, working applications.
+I learn something new every single day — through courses, experimentation, and building real projects.
+My goal is to grow into a strong, reliable full-stack developer who delivers clean and meaningful solutions.
 
-## ⚡ My Skills
-# I'm Learning New Skills Every Single Day By Watching Courses And Working On My Projects.
-> **Front-End:** HTML, CSS, JavaScript, React (slightly)
-> **Back-End:** PHP, SQL, Python (Django)
-> **Databases:** PostgreSQL (pgAdmin, SQL Shell), MySQL (phpMyAdmin), Firebase (slightly), SQLite (slightly)
-> **Tools:** Git
-> **Others:** C++, Linux (slightly), 3D Modeling In Blender...
+## ⚡ Tech Stack & Skills  
+### 🎨 Front-End  
+> HTML, CSS  
+> JavaScript  
+> React (basic experience)  
 
-> **Foreign Languages:** English, Spanish And German
+### 🧠 Back-End  
+> PHP  
+> Python (Django)  
+> SQL  
 
-## 🚀 My Projects
-> **PC Expert:** (Currently Stopped Project, Complex Website Based On The PHP, Since March 30, 2024)
-> **Street Workout Žilina:** (Active Project, Complex Web Application With Big Goals Based On The Django, Since Sep 24, 2025)
+### 🗄️ Databases  
+> PostgreSQL (pgAdmin, SQL Shell)  
+> MySQL (phpMyAdmin)  
+> Firebase (basic)  
+> SQLite (basic)  
 
-> **Half-Life: Minecraft Edition:** (Currently Stopped Project, Complex Modification For The Half-Life Game, Since July 7, 2021)
+### 🛠️ Tools & Other Skills  
+> Git & GitHub  
+> Linux (basic)  
+> C++  
+> 3D Modeling in Blender  
 
-## 💪 Sport
-# In My Free Time, I am Also A Very Active Person, Doing Mainly Calisthenics On Advanced Level, As Well As Running And Cycling.
-<!--
-**Na-Nu-X/Na-Nu-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 Languages  
+> English  
+> Spanish  
+> German  
 
-Here are some ideas to get you started:
+## 🚀 Projects  
+### 🖥️ PC Expert  
+Paused project  
+A complex PHP-based website focused on PC building and expertise.  
+📅 Started: March 30, 2024  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏋️ Street Workout Žilina  
+Active project  
+A large-scale Django web application with ambitious goals, built for a real street workout community.  
+📅 Started: September 24, 2025  
+
+### 🎮 Half-Life: Minecraft Edition  
+Paused project  
+A complex modification for the Half-Life game inspired by Minecraft mechanics.  
+📅 Started: July 7, 2021  
+
+## 💪 Outside of Coding  
+When I’m not coding, I stay highly active 💥  
+I practice advanced-level calisthenics, and I also enjoy running and cycling.  
+Sport helps me keep discipline, consistency, and a strong mindset — the same qualities I bring into development.  
+
+⭐ Feel free to explore my repositories and follow my journey.  
+📫 Open to collaboration, learning, and job opportunities.
