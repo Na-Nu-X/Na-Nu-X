@@ -1,31 +1,26 @@
 # 👋 Hi there, I'm Patrik #
-## 🚀 Full-Stack Web Developer actively looking for a job opportunity  
-I’m a passionate developer who loves turning ideas into real, working applications.
-I learn something new every single day — through courses, experimentation, and building real projects.
-My goal is to grow into a strong, reliable full-stack developer who delivers clean and meaningful solutions.
+## 🚀 Full-Stack Web Developer Looking For A Job Opportunity  
+I'm a Passionate Developer Who Loves Turning Ideas Into Real Projects.
+I Learn Something New Every Single Day - Through Courses, Experimentation And Building Projects.
+My Goal Is To Get More Experiemce As a Developer Who Delivers Clean And Meaningful Solutions.
 
-## ⚡ Tech Stack & Skills  
+## ⚡ Tech Skills  
 ### 🎨 Front-End  
 > HTML, CSS  
 > JavaScript  
-> React (basic experience)  
 
 ### 🧠 Back-End  
-> PHP  
-> Python (Django)  
-> SQL  
+> Python (Django)
+> PHP, SQL  
 
 ### 🗄️ Databases  
 > PostgreSQL (pgAdmin, SQL Shell)  
 > MySQL (phpMyAdmin)  
-> Firebase (basic)  
-> SQLite (basic)  
 
-### 🛠️ Tools & Other Skills  
+### 🛠️ Others  
 > Git & GitHub  
-> Linux (basic)  
-> C++  
 > 3D Modeling in Blender  
+> C++  
 
 ### 🌍 Languages  
 > English  
@@ -34,24 +29,19 @@ My goal is to grow into a strong, reliable full-stack developer who delivers cle
 
 ## 🚀 Projects  
 ### 🖥️ PC Expert  
-Paused project  
-A complex PHP-based website focused on PC building and expertise.  
+A Complex PHP-Based Website Focused on PC Building and Expertise.  
 📅 Started: March 30, 2024  
 
-### 🏋️ Street Workout Žilina  
-Active project  
-A large-scale Django web application with ambitious goals, built for a real street workout community.  
+### 🏋️ Street Workout Žilina    
+A Large-Scale Django Web Application With Ambitious Goals, Built For a Real Gym Community.  
 📅 Started: September 24, 2025  
 
 ### 🎮 Half-Life: Minecraft Edition  
-Paused project  
-A complex modification for the Half-Life game inspired by Minecraft mechanics.  
+A Complex Modification For The Half-Life Game Reworked to Minecraft Style.  
 📅 Started: July 7, 2021  
 
 ## 💪 Outside of Coding  
-When I’m not coding, I stay highly active 💥  
-I practice advanced-level calisthenics, and I also enjoy running and cycling.  
-Sport helps me keep discipline, consistency, and a strong mindset — the same qualities I bring into development.  
+When I'm not Working on PC, I Stay Highly Active 💥  
+I Practice Advanced-Level Calisthenics, And I Also Enjoy Running And Cycling.    
 
-⭐ Feel free to explore my repositories and follow my journey.  
-📫 Open to collaboration, learning, and job opportunities.
+📫 Open to Collaboration, Learning, And Job Opportunities.
