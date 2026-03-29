@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/2745958a-f6aa-4170-9154-53191fc39bcf.svg)](https://wakatime.com/@2745958a-f6aa-4170-9154-53191fc39bcf)
+
 # 👋 Hi there, I'm Patrik #
 ## 🚀 Full-Stack Web Developer Looking For A Job Opportunity  
 I'm a Passionate Developer Who Loves Turning Ideas Into Real Projects.
