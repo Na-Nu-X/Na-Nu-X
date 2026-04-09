@@ -8,11 +8,11 @@ My Goal Is To Get More Experiemce As a Developer Who Delivers Clean And Meaningf
 
 ## ⚡ Tech Skills  
 ### 🎨 Front-End  
-> HTML, CSS  
-> JavaScript  
+> HTML, CSS, SCSS, TailWind  
+> TypeScript, Vanilla JavaScript, jQuery  
 
 ### 🧠 Back-End  
-> Python (Django)
+> Python (Django)  
 > PHP, SQL  
 
 ### 🗄️ Databases  
@@ -20,30 +20,32 @@ My Goal Is To Get More Experiemce As a Developer Who Delivers Clean And Meaningf
 > MySQL (phpMyAdmin)  
 
 ### 🛠️ Others  
+> Linux  
 > Git & GitHub  
 > 3D Modeling in Blender  
 > C++  
+> Cypress  
 
 ### 🌍 Languages  
-> English  
-> Spanish  
-> German  
+> 🇬🇧 English  
+> 🇪🇸 Spanish  
+> 🇩🇪 German  
 
 ## 🚀 Projects  
-### 🖥️ PC Expert  
-A Complex PHP-Based Website Focused on PC Building and Expertise.  
-📅 Started: March 30, 2024  
-
-### 🏋️ Street Workout Žilina    
+### 🏋️ Wesiq    
 A Large-Scale Django Web Application With Ambitious Goals, Built For a Real Gym Community.  
 📅 Started: September 24, 2025  
 
-### 🎮 Half-Life: Minecraft Edition  
+### 🖥️ PC Expert  *(paused)*
+A Complex PHP-Based Website Focused on PC Building and Expertise.  
+📅 Started: March 30, 2024  
+
+### 🎮 Half-Life: Minecraft Edition  *(canceled)*
 A Complex Modification For The Half-Life Game Reworked to Minecraft Style.  
 📅 Started: July 7, 2021  
 
 ## 💪 Outside of Coding  
-When I'm not Working on PC, I Stay Highly Active 💥  
-I Practice Advanced-Level Calisthenics, And I Also Enjoy Running And Cycling.    
+When I'm not Working on a PC, I Stay Highly Active 💥  
+I Practice High-Level Calisthenics, And I Also Enjoy Running And Cycling.    
 
 📫 Open to Collaboration, Learning, And Job Opportunities.
