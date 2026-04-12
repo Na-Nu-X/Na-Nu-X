@@ -12,15 +12,15 @@ My Goal Is To Get More Experiemce As a Developer Who Delivers Clean And Meaningf
 > TypeScript, Vanilla JavaScript, jQuery  
 
 ### 🧠 Back-End  
-> Python (Django)  
-> PHP, SQL  
+> 🐍 Python (Django)  
+> 🐘 PHP, SQL  
 
 ### 🗄️ Databases  
 > PostgreSQL (pgAdmin, SQL Shell)  
 > MySQL (phpMyAdmin)  
 
 ### 🛠️ Others  
-> Linux  
+> 🐧 Linux  
 > Git & GitHub  
 > 3D Modeling in Blender  
 > C++  
