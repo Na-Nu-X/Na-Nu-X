@@ -47,8 +47,13 @@ My Goal Is To Get More Experiemce As a Developer Who Delivers Clean And Meaningf
 A Large-Scale Django Web Application With Ambitious Goals, Built For a Real Gym Community.  
 📅 Started: September 24, 2025  
 
-Wesiq - Homepage (Video Demo)
-[![Demo aplikácie](https://img.youtube.com/vi/0oIkQcy2krg/maxresdefault.jpg)](https://youtu.be/0oIkQcy2krg)
+Wesiq - Homepage (Video Demo):
+
+<p align="left">
+  <a href="https://youtu.be/0oIkQcy2krg" title="Otvoriť YouTube">
+    <img src="https://img.youtube.com/vi/0oIkQcy2krg/maxresdefault.jpg" width="500">
+  </a>
+</p>
 
 ### 🖥️ PC Expert  *(paused)*
 A Complex PHP-Based Website Focused on PC Building and Expertise.  
