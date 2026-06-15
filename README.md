@@ -2,9 +2,9 @@
 
 # 👋 Hi there, I'm Patrik #
 ## 🚀 Full-Stack Web Developer Looking For A Job Opportunity  
-I'm a Passionate Developer Who Loves Turning Ideas Into Real Projects.
-I Learn Something New Every Single Day - Through Courses, Experimentation And Building Projects.
-My Goal Is To Get More Experiemce As a Developer Who Delivers Clean And Meaningful Solutions.
+I'm a passionate developer who loves turning ideas into real projects.
+I learn something new every single day - through courses, experimentation and building projects.
+My goal is to get more experiemce as a developer who delivers clean and meaningful solutions.
 
 ## ⚡ Tech Skills  
 ### 🎨 Front-End  
@@ -44,7 +44,7 @@ My Goal Is To Get More Experiemce As a Developer Who Delivers Clean And Meaningf
 
 ## 🚀 Projects  
 ### 🏋️ Wesiq    
-A Large-Scale Django Web Application With Ambitious Goals, Built For a Real Gym Community.  
+A large-scale Django Web Application with ambitious goals, built for a real gym community.  
 📅 Started: September 24, 2025  
 
 Wesiq - Homepage (Video Demo):
@@ -56,15 +56,15 @@ Wesiq - Homepage (Video Demo):
 </p>
 
 ### 🖥️ PC Expert  *(paused)*
-A Complex PHP-Based Website Focused on PC Building and Expertise.  
+A complex PHP-Based Website focused on PC building and expertise.  
 📅 Started: March 30, 2024  
 
 ### 🎮 Half-Life: Minecraft Edition  *(canceled)*
-A Complex Modification For The Half-Life Game Reworked to Minecraft Style.  
+A complex Modification for the Half-Life game reworked to Minecraft style.  
 📅 Started: July 7, 2021  
 
 ## 💪 Outside of Coding  
-When I'm not Working on a PC, I Stay Highly Active 💥  
-I Practice High-Level Calisthenics, And I Also Enjoy Running And Cycling.    
+When I'm not working on a PC, I stay highly active 💥  
+I practice high-level Calisthenics, and I also enjoy running and cycling.    
 
-📫 Open to Collaboration, Learning, And Job Opportunities.
+📫 Open to collaboration and job opportunities.
