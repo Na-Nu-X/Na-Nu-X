@@ -71,11 +71,27 @@ Wesiq - Community Page (Video Demo):
   </a>
 </p>
 
+Wesiq - Activity Page (Video Demo):
+
+<p align="left">
+  <a href="https://youtu.be/l303WPL_oLI" title="Otvoriť YouTube">
+    <img src="https://img.youtube.com/vi/l303WPL_oLI/maxresdefault.jpg" width="500">
+  </a>
+</p>
+
 Wesiq - Profile Page (Video Demo):
 
 <p align="left">
   <a href="https://youtu.be/sC21gBcShJ4" title="Otvoriť YouTube">
     <img src="https://img.youtube.com/vi/sC21gBcShJ4/maxresdefault.jpg" width="500">
+  </a>
+</p>
+
+Wesiq - Edit Review (Video Demo):
+
+<p align="left">
+  <a href="https://youtu.be/0fuJIKVxw3U" title="Otvoriť YouTube">
+    <img src="https://img.youtube.com/vi/0fuJIKVxw3U/maxresdefault.jpg" width="500">
   </a>
 </p>
 
