@@ -63,6 +63,22 @@ Wesiq - Registration (Video Demo):
   </a>
 </p>
 
+Wesiq - Community Page (Video Demo):
+
+<p align="left">
+  <a href="https://youtu.be/wTQAabycKi0" title="Otvoriť YouTube">
+    <img src="https://img.youtube.com/vi/wTQAabycKi0/maxresdefault.jpg" width="500">
+  </a>
+</p>
+
+Wesiq - Profile Page (Video Demo):
+
+<p align="left">
+  <a href="https://youtu.be/sC21gBcShJ4" title="Otvoriť YouTube">
+    <img src="https://img.youtube.com/vi/sC21gBcShJ4/maxresdefault.jpg" width="500">
+  </a>
+</p>
+
 ### 🖥️ PC Expert  *(paused)*
 A complex PHP-Based Website focused on PC building and expertise.  
 📅 Started: March 30, 2024  
