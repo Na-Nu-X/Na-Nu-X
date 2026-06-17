@@ -87,6 +87,14 @@ Wesiq - Profile Page (Video Demo):
   </a>
 </p>
 
+Wesiq - Password Reset (Video Demo):
+
+<p align="left">
+  <a href="https://youtu.be/x8kdxLnee0w" title="Otvoriť YouTube">
+    <img src="https://img.youtube.com/vi/x8kdxLnee0w/maxresdefault.jpg" width="500">
+  </a>
+</p>
+
 Wesiq - Edit Review (Video Demo):
 
 <p align="left">
