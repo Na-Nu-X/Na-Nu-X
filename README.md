@@ -38,9 +38,9 @@ My goal is to get more experiemce as a developer who delivers clean and meaningf
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50"> <!-- https://reactjs.org/ -->
 
 ### 🌍 Languages  
-> 🇬🇧 English  
-> 🇪🇸 Spanish  
-> 🇩🇪 German  
+> 🇬🇧 English (B2)  
+> 🇪🇸 Spanish (A2 - B1)  
+> 🇩🇪 German (A1 - A2)  
 
 ## 🚀 Projects  
 ### 🏋️ Wesiq    
