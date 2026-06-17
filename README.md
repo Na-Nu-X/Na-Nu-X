@@ -55,19 +55,19 @@ Wesiq - Homepage (Video Demo):
   </a>
 </p>
 
-Wesiq - Registration (Video Demo):
-
-<p align="left">
-  <a href="https://youtu.be/sg4gLodH-gQ" title="Otvoriť YouTube">
-    <img src="https://img.youtube.com/vi/sg4gLodH-gQ/maxresdefault.jpg" width="500">
-  </a>
-</p>
-
 Wesiq - Community Page (Video Demo):
 
 <p align="left">
   <a href="https://youtu.be/wTQAabycKi0" title="Otvoriť YouTube">
     <img src="https://img.youtube.com/vi/wTQAabycKi0/maxresdefault.jpg" width="500">
+  </a>
+</p>
+
+Wesiq - Post Page (Video Demo):
+
+<p align="left">
+  <a href="https://youtu.be/hiF7wjwL9Ss" title="Otvoriť YouTube">
+    <img src="https://img.youtube.com/vi/hiF7wjwL9Ss/maxresdefault.jpg" width="500">
   </a>
 </p>
 
@@ -82,8 +82,8 @@ Wesiq - Activity Page (Video Demo):
 Wesiq - Profile Page (Video Demo):
 
 <p align="left">
-  <a href="https://youtu.be/sC21gBcShJ4" title="Otvoriť YouTube">
-    <img src="https://img.youtube.com/vi/sC21gBcShJ4/maxresdefault.jpg" width="500">
+  <a href="https://youtu.be/sUbFkI8-Wm8" title="Otvoriť YouTube">
+    <img src="https://img.youtube.com/vi/sUbFkI8-Wm8/maxresdefault.jpg" width="500">
   </a>
 </p>
 
@@ -92,6 +92,14 @@ Wesiq - Password Reset (Video Demo):
 <p align="left">
   <a href="https://youtu.be/x8kdxLnee0w" title="Otvoriť YouTube">
     <img src="https://img.youtube.com/vi/x8kdxLnee0w/maxresdefault.jpg" width="500">
+  </a>
+</p>
+
+Wesiq - Registration (Video Demo):
+
+<p align="left">
+  <a href="https://youtu.be/sg4gLodH-gQ" title="Otvoriť YouTube">
+    <img src="https://img.youtube.com/vi/sg4gLodH-gQ/maxresdefault.jpg" width="500">
   </a>
 </p>
 
