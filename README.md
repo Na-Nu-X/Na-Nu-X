@@ -79,6 +79,22 @@ Wesiq - Activity Page (Video Demo):
   </a>
 </p>
 
+Wesiq - Create Training Plan (Video Demo):
+
+<p align="left">
+  <a href="https://youtu.be/J4cQ2dRdZtc" title="Otvoriť YouTube">
+    <img src="https://img.youtube.com/vi/J4cQ2dRdZtc/maxresdefault.jpg" width="500">
+  </a>
+</p>
+
+Wesiq - Edit Training Plan (Video Demo):
+
+<p align="left">
+  <a href="https://youtu.be/M4Q_U3T9n4A" title="Otvoriť YouTube">
+    <img src="https://img.youtube.com/vi/M4Q_U3T9n4A/maxresdefault.jpg" width="500">
+  </a>
+</p>
+
 Wesiq - Profile Page (Video Demo):
 
 <p align="left">
