@@ -50,8 +50,8 @@ A large-scale Django Web Application with ambitious goals, built for a real gym 
 Wesiq - Homepage (Video Demo):
 
 <p align="left">
-  <a href="https://youtu.be/3SrxUaCKIT8" title="Otvoriť YouTube">
-    <img src="https://img.youtube.com/vi/3SrxUaCKIT8/maxresdefault.jpg" width="500">
+  <a href="https://youtu.be/gl60ABddNXk" title="Otvoriť YouTube">
+    <img src="https://img.youtube.com/vi/gl60ABddNXk/maxresdefault.jpg" width="500">
   </a>
 </p>
 
