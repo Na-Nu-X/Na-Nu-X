@@ -133,7 +133,7 @@ A complex PHP-Based Website focused on PC building and expertise.
 
 ### 👾 JS DOOM
 A web browser game written in poor JavaScript (TS) which uses original Doom assets from 1993.  
-📅 Started: June, 2026  
+📅 Started: June 24, 2026  
 
 ### 🎮 Half-Life: Minecraft Edition  *(canceled)*
 A complex Modification for the Half-Life game reworked to Minecraft style.  
