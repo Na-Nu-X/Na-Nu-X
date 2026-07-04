@@ -127,9 +127,13 @@ Wesiq - Edit Review (Video Demo):
   </a>
 </p>
 
-### 🖥️ PC Expert  *(paused)*
+### 🖥️ PC Expert
 A complex PHP-Based Website focused on PC building and expertise.  
 📅 Started: March 30, 2024  
+
+### 👾 JS DOOM
+A web browser game written in poor JavaScript (TS) which uses original Doom assets from 1993.  
+📅 Started: June, 2026  
 
 ### 🎮 Half-Life: Minecraft Edition  *(canceled)*
 A complex Modification for the Half-Life game reworked to Minecraft style.  
