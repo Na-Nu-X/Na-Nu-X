@@ -14,6 +14,7 @@ My goal is to get more experiemce as a developer who delivers clean and meaningf
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="50"> <!-- https://tailwindcss.com/ -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"> <!-- https://www.typescriptlang.org/ -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"> <!-- https://developer.mozilla.org/en-US/docs/Web/JavaScript -->
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50">
 
 ### 🧠 Back-End  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"> <!-- https://www.python.org -->
