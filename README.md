@@ -140,6 +140,18 @@ A web browser game written in poor JavaScript (TS) which uses original Doom asse
 A complex Modification for the Half-Life game reworked to Minecraft style.  
 📅 Started: July 7, 2021  
 
+### 🍕 Restaurant Web
+A custom web platform for a restaurant featuring online menus, reservations, and modern UI.  
+📅 Started: July 14, 2026    
+
+### 💈 Barber Shop Web
+A stylish booking system and web presentation designed specifically for a local barber shop.  
+📅 Started: July 18, 2026  
+
+### 🧁 Pastry Shop Web
+A web application tailored for a bakery and pastry shop, focused on custom orders and product showcases.  
+📅 Started: July 20, 2026  
+
 ## 💪 Outside of Coding  
 When I'm not working on a PC, I stay highly active 💥  
 I practice high-level Calisthenics, and I also enjoy running and cycling.    
