@@ -42,6 +42,7 @@ My goal is to get more experiemce as a developer who delivers clean and meaningf
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" title="Blender" width="50"> <!-- https://www.blender.org/ -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="50"> <!-- https://www.docker.com/ -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="50"> <!-- https://www.w3schools.com/cpp/ -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" title="Cypress" width="50"> <!-- https://www.cypress.io -->
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" title="Arduino" width="50"> <!-- https://www.arduino.cc/ -->
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" title="Chart.js" width="50"> <!-- https://www.chartjs.org -->
