@@ -163,6 +163,10 @@ A stylish booking system and web presentation designed for a local barber shop, 
 A web application tailored for a bakery and pastry shop utilizing a Django and Angular stack, focused on custom orders and product showcases.  
 📅 Started: July 20, 2026
 
+### 👗 Boutique Web
+A modern web application tailored for a fashion boutique, focused on product showcases, custom orders, and online presentation, powered by a React Front-End and Express Back-End.  
+📅 Started: July 23, 2026  
+
 ## 💪 Outside of Coding  
 When I'm not working on a PC, I stay highly active 💥  
 I practice high-level Calisthenics, and I also enjoy running and cycling.    
