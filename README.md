@@ -6,10 +6,9 @@
   <a href="https://instagram.com/patrik_cali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Instagram" title="My Instagram" height="30" width="40" /></a>
 </p>
 
-# 👋 Hi there, I'm Patrik #
-## 🚀 Full-Stack Web Developer Looking For A Job Opportunity  
-I'm a passionate developer who loves turning ideas into real projects.
-I learn something new every single day - through courses, experimentation and building projects.
+## 🚀 Full-Stack Developer
+I'm a developer who loves turning ideas into real projects.
+I learn something new every day - through courses and building my own projects.
 My goal is to get more experiemce as a developer who delivers clean and meaningful solutions.
 
 ## ⚡ Tech Skills  
@@ -56,7 +55,7 @@ My goal is to get more experiemce as a developer who delivers clean and meaningf
 
 ## 🚀 Projects  
 ### 🏋️ Wesiq    
-A large-scale Django Web Application with ambitious goals, built for a real gym community.  
+A large-scale Multiplatform Application with ambitious goals, built for a real gym community.  
 📅 Started: September 24, 2025  
 
 Wesiq - Homepage (Video Demo):
@@ -168,7 +167,7 @@ A modern web application tailored for a fashion boutique, focused on product sho
 📅 Started: July 23, 2026  
 
 ## 💪 Outside of Coding  
-When I'm not working on a PC, I stay highly active 💥  
-I practice high-level Calisthenics, and I also enjoy running and cycling.    
+I stay highly active 💥  
+I do high-level Calisthenics or Street Lifting, and I also enjoy running and cycling as well.    
 
 📫 Open to collaboration and job opportunities.
