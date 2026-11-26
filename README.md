@@ -6,11 +6,6 @@
   <a href="https://instagram.com/patrik_cali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Instagram" title="My Instagram" height="30" width="40" /></a>
 </p>
 
-## 🚀 Full-Stack Developer
-I'm a developer who loves turning ideas into real projects.
-I learn something new every day - through courses and building my own projects.
-My goal is to get more experiemce as a developer who delivers clean and meaningful solutions.
-
 ## ⚡ Tech Skills  
 ### 🎨 Front-End  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" title="HTML" width="50"> <!-- https://www.w3.org/html/ -->
@@ -58,86 +53,6 @@ My goal is to get more experiemce as a developer who delivers clean and meaningf
 A large-scale Multiplatform Application with ambitious goals, built for a real gym community.  
 📅 Started: September 24, 2025  
 
-Wesiq - Homepage (Video Demo):
-
-<p align="left">
-  <a href="https://youtu.be/gl60ABddNXk" title="Otvoriť YouTube">
-    <img src="https://img.youtube.com/vi/gl60ABddNXk/maxresdefault.jpg" width="500">
-  </a>
-</p>
-
-Wesiq - Community Page (Video Demo):
-
-<p align="left">
-  <a href="https://youtu.be/wTQAabycKi0" title="Otvoriť YouTube">
-    <img src="https://img.youtube.com/vi/wTQAabycKi0/maxresdefault.jpg" width="500">
-  </a>
-</p>
-
-Wesiq - Post Page (Video Demo):
-
-<p align="left">
-  <a href="https://youtu.be/hiF7wjwL9Ss" title="Otvoriť YouTube">
-    <img src="https://img.youtube.com/vi/hiF7wjwL9Ss/maxresdefault.jpg" width="500">
-  </a>
-</p>
-
-Wesiq - Activity Page (Video Demo):
-
-<p align="left">
-  <a href="https://youtu.be/l303WPL_oLI" title="Otvoriť YouTube">
-    <img src="https://img.youtube.com/vi/l303WPL_oLI/maxresdefault.jpg" width="500">
-  </a>
-</p>
-
-Wesiq - Create Training Plan (Video Demo):
-
-<p align="left">
-  <a href="https://youtu.be/J4cQ2dRdZtc" title="Otvoriť YouTube">
-    <img src="https://img.youtube.com/vi/J4cQ2dRdZtc/maxresdefault.jpg" width="500">
-  </a>
-</p>
-
-Wesiq - Edit Training Plan (Video Demo):
-
-<p align="left">
-  <a href="https://youtu.be/M4Q_U3T9n4A" title="Otvoriť YouTube">
-    <img src="https://img.youtube.com/vi/M4Q_U3T9n4A/maxresdefault.jpg" width="500">
-  </a>
-</p>
-
-Wesiq - Profile Page (Video Demo):
-
-<p align="left">
-  <a href="https://youtu.be/sUbFkI8-Wm8" title="Otvoriť YouTube">
-    <img src="https://img.youtube.com/vi/sUbFkI8-Wm8/maxresdefault.jpg" width="500">
-  </a>
-</p>
-
-Wesiq - Password Reset (Video Demo):
-
-<p align="left">
-  <a href="https://youtu.be/x8kdxLnee0w" title="Otvoriť YouTube">
-    <img src="https://img.youtube.com/vi/x8kdxLnee0w/maxresdefault.jpg" width="500">
-  </a>
-</p>
-
-Wesiq - Registration (Video Demo):
-
-<p align="left">
-  <a href="https://youtu.be/sg4gLodH-gQ" title="Otvoriť YouTube">
-    <img src="https://img.youtube.com/vi/sg4gLodH-gQ/maxresdefault.jpg" width="500">
-  </a>
-</p>
-
-Wesiq - Edit Review (Video Demo):
-
-<p align="left">
-  <a href="https://youtu.be/0fuJIKVxw3U" title="Otvoriť YouTube">
-    <img src="https://img.youtube.com/vi/0fuJIKVxw3U/maxresdefault.jpg" width="500">
-  </a>
-</p>
-
 ### 🖥️ PC Expert
 A complex PHP-Based Website focused on PC building and expertise.  
 📅 Started: March 30, 2024  
@@ -167,7 +82,6 @@ A modern web application tailored for a fashion boutique, focused on product sho
 📅 Started: July 23, 2026  
 
 ## 💪 Outside of Coding  
-I stay highly active 💥  
-I do high-level Calisthenics or Street Lifting, and I also enjoy running and cycling as well.    
+I do high-level Calisthenics, Street Lifting, and I also enjoy running and cycling as well.    
 
 📫 Open to collaboration and job opportunities.
