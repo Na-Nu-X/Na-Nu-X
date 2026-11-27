@@ -48,7 +48,7 @@
 > 🇪🇸 Spanish (A2 - B1)  
 > 🇩🇪 German (A1 - A2)  
 
-## 🚀 Projects  
+## 🚀 Main Projects  
 ### 🏋️ Wesiq    
 A large-scale Multiplatform Application with ambitious goals, built for a real gym community.  
 📅 Started: September 24, 2025  
@@ -56,30 +56,6 @@ A large-scale Multiplatform Application with ambitious goals, built for a real g
 ### 🖥️ PC Expert
 A complex PHP-Based Website focused on PC building and expertise.  
 📅 Started: March 30, 2024  
-
-### 👾 JS DOOM
-A web browser game written in poor JavaScript (TS) which uses original Doom assets from 1993.  
-📅 Started: June 24, 2026  
-
-### 🎮 Half-Life: Minecraft Edition  *(canceled)*
-A complex Modification for the Half-Life game reworked to Minecraft style.  
-📅 Started: July 7, 2021  
-
-### 🍕 Restaurant Web
-A Full-Stack web platform for a restaurant featuring online menus and reservations, powered by a Django Back-End and Angular Front-End.  
-📅 Started: July 14, 2026  
-
-### 💈 Barber Shop Web
-A stylish booking system and web presentation designed for a local barber shop, built using Angular and Django.  
-📅 Started: July 18, 2026  
-
-### 🧁 Pastry Shop Web
-A web application tailored for a bakery and pastry shop utilizing a Django and Angular stack, focused on custom orders and product showcases.  
-📅 Started: July 20, 2026
-
-### 👗 Boutique Web
-A modern web application tailored for a fashion boutique, focused on product showcases, custom orders, and online presentation, powered by a React Front-End and Express Back-End.  
-📅 Started: July 23, 2026  
 
 ## 💪 Outside of Coding  
 I do high-level Calisthenics, Street Lifting, and I also enjoy running and cycling as well.    
